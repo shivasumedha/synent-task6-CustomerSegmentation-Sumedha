@@ -107,7 +107,6 @@ The Elbow Method was used to determine the optimal number of clusters.
 
 ### Result
 Optimal number of clusters:
-```python
 k = 5
 
 Project Structure
@@ -126,7 +125,8 @@ synent-task6-customersegmentation-aadarsh/
 │
 ├── README.md
 └── requirements.txt
-How to Run the Project
+
+### How to Run the Project
 Step 1 — Clone Repository
 git clone <repository-link>
 Step 2 — Install Dependencies
@@ -139,12 +139,13 @@ customer_segmentation.ipynb
 
 Run all cells.
 
-Business Insights
+### Business Insights
 Customers can be grouped into meaningful purchasing segments.
 High-income customers do not always spend more.
 Premium customers contribute significantly to revenue.
 Personalized marketing strategies can improve business performance.
-Future Improvements
+
+### Future Improvements
 Add customer recommendation system
 Build interactive dashboard using Streamlit
 Apply advanced clustering algorithms
@@ -166,11 +167,12 @@ Data preprocessing
 Apply K-Means clustering
 Visualize customer clusters
 Generate insights from customer behavior
-Author
 
-Aadarsh
+### Author
+
+Shiva Sumedha
 B.Tech CSE (AI & ML)
 
-License
+### License
 
 This project is created for educational and internship purposes.
